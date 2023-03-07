@@ -31,7 +31,7 @@ Whilst [Overleaf](https://www.overleaf.com/) is an excellent tool for Latex. The
 
 <br clear="left"/>
 
-To compile the latex file you need to have selected `Templte.tex` and then press `Ctrl + Alt + B`, this should generate a bunch of files including the PDF document which will be opened and split the IDE in two.
+To compile the latex file you need to have selected `Template.tex` and then press `Ctrl + Alt + B`, this should generate a bunch of files including the PDF document which will be opened and split the IDE in two.
 
 <div align="center">
     <img src=".\img\split.png" width="75%" alt="split">
