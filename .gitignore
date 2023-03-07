@@ -1,0 +1,17 @@
+
+# Compiled source #
+###################
+config.json
+*.aux
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg
+*.run.xml
+*.synctex.gz
+*-blx.bib
